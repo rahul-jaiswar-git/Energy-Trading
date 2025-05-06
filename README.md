@@ -1,10 +1,10 @@
+# Blockchain Based Energy Trading
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/rahul-jaiswar-git/Energy-Trading?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/rahul-jaiswar-git/Energy-Trading?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/rahul-jaiswar-git/Energy-Trading?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/rahul-jaiswar-git/Energy-Trading?style=for-the-badge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/rahul-jaiswar-git/Energy-Trading?style=for-the-badge)
-
-# Energy Trading Blockchain CLI
 
 ![Project Home Page](home-page.png)
 
